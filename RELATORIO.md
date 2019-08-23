@@ -1,4 +1,4 @@
-#Relatório do jogo Batalha Naval 
+# Relatório do jogo Batalha Naval 
 
 Integrantes: Gabriel Augusto, Gustavo Guillian 
 
